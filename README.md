@@ -3,4 +3,4 @@ MAC OS users may need to change the permissions (chmod -R 777 path/to/project/fo
 Make sure jdk versions match.
 Run the main method.
 On POSTMAN:
-http://localhost:8080/movie(GET)
+*http://localhost:8080/movie(GET)
